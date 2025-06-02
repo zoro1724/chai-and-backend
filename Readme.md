@@ -10,3 +10,7 @@ this is new journey stared
 # now we use nodemon once file will save it restart the file means relode 
 # after installing it by npm -i D nodemon
 # "dev":"nodemon src/index.js" in script tag of package.json
+# next step to create folder like controllers,utils,middlewares,models,routes,db in src
+# git add .
+# git commit -m "message"
+# git push

@@ -1,2 +1,2 @@
-export const DB_NAME="videoocean" 
-// creating database name in constant file
+// export const DB_NAME="videoocean" 
+// // creating database name in constant file

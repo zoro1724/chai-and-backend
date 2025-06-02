@@ -1,6 +1,6 @@
 # chai aur backend
 
-this is new journey stared
+this is new journey stared and idk
 
 # we create .gitkeep file for that temp folder will push
 # 2nd step we create gitignore file to keep sensitive file togather to keep item that we want to ignore like any information by gitignore generator

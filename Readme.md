@@ -14,3 +14,4 @@ this is new journey stared and idk
 # git add .
 # git commit -m "message"
 # git push
+# hello world

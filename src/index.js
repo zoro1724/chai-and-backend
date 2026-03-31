@@ -11,7 +11,9 @@ import dotenv from "dotenv"//after creating this as it not mention as now in dot
 //2nd method 1st make file in db folder and write code there
 
 import connectDB from "./db/index.js";// used to connnect indexfile in db and this
-dotenv.config({path:'./env'})
+dotenv.config({
+    path:'./env'
+})
 
 connectDB()
 

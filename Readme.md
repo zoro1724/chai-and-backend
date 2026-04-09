@@ -26,8 +26,12 @@ this is new journey stared and idk
 # git push -u origin main
 # node- module folder created when we install (nodemon).
 
---now we will handle the custom error and api's.
+--now we will handle the custom error and api's. # and there detail work of code in their codebase.
 
   -->1st we import the express in (app.js) file.
-  -->middleware are just like mediater between server and client and have    -->three state(req,res,next(for middleware ))
+  -->then we download the package (cookie and cros). and write their code in app.js.
+  -->then we create file (asynchandller) in (utils) to handle future async task from that file directly. no need to write code again and again.
+  -->now we also create file (apierror) and (apiresponse) to handle error and response respectiviley.
+  -->middleware are just like mediater between server and client and have    
+  -->three state(req,res,next(for middleware ))
   -->

@@ -29,4 +29,5 @@ this is new journey stared and idk
 --now we will handle the custom error and api's.
 
   -->1st we import the express in (app.js) file.
+  -->middleware are just like mediater between server and client and have    -->three state(req,res,next(for middleware ))
   -->

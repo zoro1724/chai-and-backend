@@ -25,3 +25,8 @@ this is new journey stared and idk
 # git branch -M main
 # git push -u origin main
 # node- module folder created when we install (nodemon).
+
+--now we will handle the custom error and api's.
+
+  -->1st we import the express in (app.js) file.
+  -->

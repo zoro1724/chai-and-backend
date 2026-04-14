@@ -35,3 +35,8 @@ this is new journey stared and idk
   -->middleware are just like mediater between server and client and have    
   -->three state(req,res,next(for middleware ))
   -->
+
+--> Now we create the models.
+  -->1st we create two model (video and user).
+  -->now we install agregate pipeline (mongoose-aggregate-paginate-v2).rest in video file.
+  -->now we install two packeges (bcrypt and jwttoken) and their working in (user model).
